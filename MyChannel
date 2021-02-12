@@ -9,7 +9,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 #EXTINF:-1,Cinemax West
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-#EXTINF:-1,
+#EXTINF:-1,HBO East
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1,
+#EXTINF:-1,HBO West
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
