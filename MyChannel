@@ -13,3 +13,9 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1,HBO West
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1,HBO West
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1,Showtime East
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1,Showtime West
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
