@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" tvg-name="ESPN2"  group-title="Sports",ESPN2
-https://gma2.blab.email/espn2.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dzsuudu3ba6ci.cloudfront.net/platform-services/StingrayQello_logo_large.jpg" tvg-name="Qello"  group-title="Musical",Qello
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
@@ -31,7 +28,7 @@ https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.gmkfreelogos.com/logos/T/img/The_Weather_Channel.gif" tvg-name="The Weather Channel"  group-title="News",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV5_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20200904133528" tvg-name="TV5"  group-title="Tagalog",TV5
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
@@ -56,6 +53,32 @@ https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/62/2000px-ESPN_U.svg.png/revision/latest/scale-to-width-down/340?cb=20121029061856" tvg-name="ESPN U"  group-title="Sports",ESPN U
 https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/1c/39/ac/1c39ac9f3fff6c2ff6e2759db7604b16.jpg" tvg-name="HBO"  group-title="Movies",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.realscreen.com/wp/wp-content/uploads/2019/10/epix-logo-3-200x200.jpg?f6c0f1" tvg-name="Epix East"  group-title="Movies",Epix East
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/photos/premium-channels/EPIX/cox-premium-channel-epix-logo2.jpg" tvg-name="Epix2 East"  group-title="Movies",Epix2 East
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://p.kindpng.com/picc/s/153-1530307_mls-all-star-logo-hd-png-download.png" tvg-name="MLS"  group-title="Sports",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://www.nasa.gov/sites/default/files/files/nasa_insignia_300.jpg" tvg-name="NASA TV Media"  group-title="Educational",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://seeklogo.com/images/Q/QVC-logo-21A7F77414-seeklogo.com.gif" tvg-name="QVC"  group-title="Shopping",QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/DWUKjrMjx9OljXIM-g6YnV4wKfj9syqB-VkwJyHin776FlX-IJUJOkIYKmomPR9CuZkZwP87TmlcOCTW3ohkRsAgyz7qM2PrFOKWptTpHTCPFo_yy-v7oQfXBo-cYCWofaRU0IAkWMc8-CDu__nySNqCjew" tvg-name="Starz West"  group-title="Movies",Starz West
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" tvg-name="Starz Encore"  group-title="Movies",Starz Encore
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+
+
 
 
 
