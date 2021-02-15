@@ -1,27 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" tvg-name="Tennis Channel"  group-title="Sports",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" tvg-name="ESPN2"  group-title="Sports",ESPN2
+https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-F7JWJ2c6pLI/Vzi-jA8Gm_I/AAAAAAAAEzw/aBoLuYqETMYJTCorLpBKbwy0RUJIxZs0gCLcB/s1600/Screen%2BShot%2B2016-05-15%2Bat%2B1.22.20%2BPM.png" tvg-name="Tennis Channel Plus"  group-title="Sports",Tennis Channel Plus
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/proxy/1VCAOuy0Jwkt5dU8Ms0Z7izqigC48HP4gcRXiWolbLnccmASZo1opfHtzS3hT4cuudtSpKlreBo8CTGQm_4sKZ_ixliuPZe4fTWNKWP2cWkimtxNixSFqJYKEHJhZ-f0aPnJAFGMcrtvYp2aF-DXSsEtnCU" tvg-name="Cinemax East"  group-title="Movies",Cinemax East
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKcb1EPBdvGnRZlTmDbvFdqI5d0kp-DVBRA&usqp=CAU" tvg-name="Cinemax West"  group-title="Movies",Cinemax West
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_east_small.gif" tvg-name="HBO East"  group-title="Movies",HBO East
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_west_small.gif" tvg-name="HBO West"  group-title="Movies",HBO West
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dzsuudu3ba6ci.cloudfront.net/platform-services/StingrayQello_logo_large.jpg" tvg-name="Qello"  group-title="Musical",Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://iptv.yesnet.tv/files/channels/1567774561929ShowtimeEast.png" tvg-name="Showtime East"  group-title="Movies",Showtime East
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://4vector.com/i/free-vector-showtime-west_052878_showtime-west.png" tvg-name="Showtime West"  group-title="Movies",Showtime West
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" tvg-name="Tennis Channel"  group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_west_small.gif" tvg-name="HBO West"  group-title="Movies",HBO West
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/proxy/1VCAOuy0Jwkt5dU8Ms0Z7izqigC48HP4gcRXiWolbLnccmASZo1opfHtzS3hT4cuudtSpKlreBo8CTGQm_4sKZ_ixliuPZe4fTWNKWP2cWkimtxNixSFqJYKEHJhZ-f0aPnJAFGMcrtvYp2aF-DXSsEtnCU" tvg-name="Cinemax East"  group-title="Movies",Cinemax East
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-F7JWJ2c6pLI/Vzi-jA8Gm_I/AAAAAAAAEzw/aBoLuYqETMYJTCorLpBKbwy0RUJIxZs0gCLcB/s1600/Screen%2BShot%2B2016-05-15%2Bat%2B1.22.20%2BPM.png" tvg-name="Tennis Channel Plus"  group-title="Sports",Tennis Channel Plus
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_east_small.gif" tvg-name="HBO East"  group-title="Movies",HBO East
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKcb1EPBdvGnRZlTmDbvFdqI5d0kp-DVBRA&usqp=CAU" tvg-name="Cinemax West"  group-title="Movies",Cinemax West
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.gmkfreelogos.com/logos/T/img/The_Weather_Channel.gif" tvg-name="The Weather Channel"  group-title="News",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV5_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20200904133528" tvg-name="TV5"  group-title="Tagalog",TV5
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://rsmetrics.com/wp-content/uploads/2020/06/ABC-News-Logo.jpg" tvg-name="ABC News"  group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3343/brand.gif?itok=1UXhEJs0" tvg-name="BBC News"  group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/8236/brand.gif?itok=1jtUx9lK" tvg-name="CBS News"  group-title="News",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-vector-logo-small.png" tvg-name="Sky News"  group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/41Yy7b-A5eL.png/revision/latest/scale-to-width-down/340?cb=20210103052248" tvg-name="ET Live"  group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" tvg-name="ESPN 2"  group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/62/2000px-ESPN_U.svg.png/revision/latest/scale-to-width-down/340?cb=20121029061856" tvg-name="ESPN U"  group-title="Sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+
 
 
