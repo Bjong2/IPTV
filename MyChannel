@@ -57,7 +57,7 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/1c/39/ac/1c39ac9f3fff6c2ff6e2759db7604b16.jpg" tvg-name="HBO"  group-title="Movies",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.realscreen.com/wp/wp-content/uploads/2019/10/epix-logo-3-200x200.jpg?f6c0f1" tvg-name="Epix East"  group-title="Movies",Epix East
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/9012/brand.gif?itok=T-8lK8hS" tvg-name="Epix East"  group-title="Movies",Epix East
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/photos/premium-channels/EPIX/cox-premium-channel-epix-logo2.jpg" tvg-name="Epix2 East"  group-title="Movies",Epix2 East
@@ -78,7 +78,19 @@ https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" tvg-name="Starz Encore"  group-title="Movies",Starz Encore
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://png.pngitem.com/pimgs/s/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" tvg-name="FOX Sport HD 1"  group-title="Sports",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg" tvg-name="CNN"  group-title="News",CNN
+http://203.162.235.41:16918
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/201809/image008.png.jpg" tvg-name="&privé"  group-title="Movies",&privé
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://media.masslive.com/entertainment/photo/11287290-large.jpg" tvg-name="A&E"  group-title="TV",A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest/scale-to-width-down/340?cb=20150529212740&path-prefix=pt-br" tvg-name="Warner TV"  group-title="TV",Warner TV
+http://203.154.243.89:11205/
 
 
