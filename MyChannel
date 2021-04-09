@@ -31,7 +31,7 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV5_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20200904133528" tvg-name="TV5"  group-title="Tagalog",TV5
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://rsmetrics.com/wp-content/uploads/2020/06/ABC-News-Logo.jpg" tvg-name="ABC News"  group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
